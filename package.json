@@ -1,0 +1,16 @@
+{
+  "name": "website-7-mustafang4858",
+  "version": "1.0.7",
+  "description": "I\u2019m the founder of InnovateTech...",
+  "main": "index.html",
+  "scripts": {
+    "build": "echo 'No build required for static site'",
+    "start": "echo 'Static site ready'"
+  },
+  "keywords": [
+    "static",
+    "website",
+    "html"
+  ],
+  "author": "mustafang4858@gmail.com"
+}
